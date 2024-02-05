@@ -8,9 +8,6 @@
 		<link rel="icon" type="image/x-icon" href="images/favicon.ico">
 		<link rel="stylesheet" href="css/style.css">
 	</head>
-<%
-session.setAttribute("url","http://localhost:8080/");
-%>
 	<body>
 		<div id="container">
 			<div id="top">
